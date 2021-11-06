@@ -1,0 +1,27 @@
+.heading{
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+    box-shadow:5px 5px 5px forestgreen ;
+}
+
+.span1{
+    font-size: 17px;
+    color: indigo;
+}
+
+.copyright{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: ivory;
+    color: lightslategray;
+    text-align: center;
+}
+
+canvas{
+    border: maroon 10px solid;
+    border-radius: 50px;
+    box-shadow:5px 5px 5px rosybrown;
+    
+}
